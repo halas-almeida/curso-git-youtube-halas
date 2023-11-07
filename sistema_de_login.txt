@@ -2,5 +2,6 @@
 
 Digite o seu Nome: [______________]
 Digite a sua Senha:[______________]
+Digite a sua Idade:[__]
 
 [Entrar->]
